@@ -9,3 +9,6 @@ http://www.instructables.com/id/PixelLux-A-64-Pixel-RGB-LED-Video-Screen/
 
 PixelBrite
 http://www.instructables.com/id/PixelBrite/
+
+Breadboard Version 
+http://www.instructables.com/id/Motion-Sensing-LEDs/?ALLSTEPS
