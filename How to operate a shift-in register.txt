@@ -18,6 +18,6 @@ Pins:
 
 #11~14: Input pins A~D. Inputs are sent into internal registers.
 
-#15: CLK-INH [stands for CLock-INHibit (on HIGH)]. When given a HIGH, the chip does not shift, in other words, CLK pin does not work; when given a LOW, the chip shifts. So a falling edge in CLK-INH triggers the shift.
+#15: CLK-INH [stands for CLocK-INHibit (on HIGH)]. When given a HIGH, the chip does not shift, in other words, CLK pin does not work; when given a LOW, the chip shifts. So a falling edge in CLK-INH triggers the shift.
 
 #16: Vcc: power supply.
