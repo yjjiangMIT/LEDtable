@@ -1,0 +1,1 @@
+Here's the model for the new shift registers: SN74HC595N
